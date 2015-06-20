@@ -1,16 +1,4 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_setmotors" id="437" inline="true" x="538" y="63">
-    <value name="BOTHMOVLEFT">
-      <block type="math_number" id="444">
-        <field name="NUM">-100</field>
-      </block>
-    </value>
-    <value name="BOTHMOVRIGHT">
-      <block type="math_number" id="445">
-        <field name="NUM">100</field>
-      </block>
-    </value>
-  </block>
   <block type="controls_whileUntil" id="8" inline="false" x="172" y="98">
     <field name="MODE">UNTIL</field>
     <value name="NUMBER">
